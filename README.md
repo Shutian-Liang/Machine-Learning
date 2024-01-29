@@ -5,7 +5,7 @@
 >[!Note] 
 >Review notes are about math basis of basic machine learning methods. Because it was written during the review period, some math details were omitted and some of the chapters were unfinished.
 
-The specific machine-learning methods inclued:
+&emsp;The specific machine-learning methods inclued:
 > - Linear Regression;
 > - Logistic Regression；
 > - Support Vector Machine;
