@@ -2,7 +2,8 @@
 #### <center>Author✏️:Shutian Liang</center>
 ***
 &emsp; These are my review notes and lab codes of Machine-Learnring Given by [Prof. Muhan Zhang](https://www.ai.pku.edu.cn/info/1284/1866.htm) from Peking University in 2023 Fall Semester. 
->[!Note] Review notes are about math basis of basic machine learning methods. Because it was written during the review period, some math details were omitted and some of the chapters were unfinished.
+>[!Note] 
+>Review notes are about math basis of basic machine learning methods. Because it was written during the review period, some math details were omitted and some of the chapters were unfinished.
 
 The specific machine-learning methods inclued:
 > - Linear regression;
