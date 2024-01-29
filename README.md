@@ -6,13 +6,13 @@
 >Review notes are about math basis of basic machine learning methods. Because it was written during the review period, some math details were omitted and some of the chapters were unfinished.
 
 The specific machine-learning methods inclued:
-> - Linear regression;
-> - Logistic regression；
+> - Linear Regression;
+> - Logistic Regression；
 > - Support Vector Machine;
 > - Representer Therom(**to be done**)；
 > - Learning Therom(generalization error and VC demension,**to be done**);
 > - Gaussian Process Regression;
-> - Ensemble learning(bagging and boosting,additive model)
+> - Ensemble Learning(bagging and boosting,additive model)
 > - Unsupervised Learning(PCA,K-means)
 > - Generative Model(Mixture of Gaussian, EM-algorithm, varitational auto-encoder)
 
